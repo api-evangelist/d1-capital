@@ -1,0 +1,73 @@
+aid: d1-capital
+name: D1 Capital Partners
+description: >-
+  D1 Capital Partners is a New York City-based global investment firm founded in
+  July 2018 by Daniel Sundheim, the former Chief Investment Officer of Viking
+  Global Investors, who seeded the firm with more than $500 million of his own
+  capital. The name "D1" references Amazon founder Jeff Bezos's "Day One"
+  philosophy. D1 deploys capital across both public and private markets: in
+  public markets it runs a global long/short equity strategy (including equity
+  derivatives and convertible bonds) targeting medium- to long-term returns,
+  while in private markets it takes later-stage, non-controlling growth-equity
+  stakes in expanding companies. The firm's private portfolio spans consumer,
+  business services, financial services, healthcare, industrials, real estate,
+  and technology, media and telecommunications, with notable positions in
+  companies such as SpaceX, Stripe, Anthropic, OpenAI, Ramp, Robinhood, GitLab,
+  and Instacart. As a "Tiger Cub" descended from Viking Global, D1 grew from
+  roughly $3 billion at launch to more than $20 billion by the end of 2020, and
+  has been reported managing on the order of $24 billion in assets. It is
+  headquartered at 9 West 57th Street in Manhattan.
+image: https://logo.clearbit.com/d1capital.com
+x-type: venture-capital
+x-category: Growth Equity
+tags:
+  - Venture Capital
+  - Growth Equity
+  - Crossover
+  - Later Stage
+  - Fintech
+  - Artificial Intelligence
+  - Technology
+  - Consumer
+  - Healthcare
+  - New York
+  - Global
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.d1capital.com
+  - type: Portfolio
+    url: portfolio/d1-capital-portfolio.yml
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/d1-capital-partners
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/d1-capital-partners
+  - type: Features
+    data:
+      - 'Firm type: Global investment firm / crossover hedge fund (Tiger Cub)'
+      - 'Strategy: Public long/short equity + private later-stage growth equity'
+      - 'Stage (private): Later stage, growth, pre-IPO'
+      - 'Investment type: Non-controlling minority stakes'
+      - >-
+        Sectors: consumer, business services, financial services, healthcare,
+        industrials, real estate, technology media & telecommunications
+      - 'Geography: Global (US-led, with Europe, Latin America and Asia)'
+      - 'AUM: ~$24 billion (reported)'
+      - 'Founded: July 2018'
+      - 'Founder / CIO: Daniel Sundheim'
+      - 'HQ: 9 West 57th Street, New York, NY'
+    sources:
+      - https://en.wikipedia.org/wiki/D1_Capital_Partners
+      - https://www.crunchbase.com/organization/d1-capital-partners
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: D1 Capital Partners
+    url: https://www.d1capital.com

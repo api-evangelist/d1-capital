@@ -1,0 +1,585 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.crunchbase.com/organization/d1-capital-partners
+summary:
+  portfolio_total: 50
+  in_network: 25
+  api_providers: 16
+  missing: 25
+  stubs_created: 0
+companies:
+- name: SpaceX
+  url: https://www.spacex.com
+  description: Designs, manufactures and launches rockets and spacecraft.
+  sector: aerospace
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: spacex-api
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stripe
+  url: https://stripe.com
+  description: Online payments infrastructure for internet businesses.
+  sector: fintech
+  stage: growth
+  status: active
+  lead: false
+  source: https://www.crunchbase.com/organization/d1-capital-partners
+  slug: stripe
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Anthropic
+  url: https://www.anthropic.com
+  description: AI safety company building large language models (Claude).
+  sector: ai
+  stage: growth
+  status: active
+  lead: false
+  source: https://www.tipranks.com/private-companies/investor/d1-capital-partners
+  slug: anthropic
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: OpenAI
+  url: https://openai.com
+  description: Artificial intelligence research and deployment company.
+  sector: ai
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  slug: openai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Groq
+  url: https://groq.com
+  description: AI inference chips and language processing units.
+  sector: ai
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: groq
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ramp
+  url: https://ramp.com
+  description: Corporate cards and spend management platform.
+  sector: fintech
+  stage: growth
+  status: active
+  lead: false
+  source: https://www.tipranks.com/private-companies/investor/d1-capital-partners
+  slug: ramp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Robinhood
+  url: https://robinhood.com
+  description: Commission-free stock and crypto trading platform.
+  sector: fintech
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/D1_Capital_Partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: robinhood
+- name: GitLab
+  url: https://gitlab.com
+  description: DevOps platform for the software development lifecycle.
+  sector: developer-tools
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/D1_Capital_Partners
+  slug: gitlab
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Instacart
+  url: https://www.instacart.com
+  description: Online grocery delivery and pickup marketplace (Maplebear).
+  sector: ecommerce
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/D1_Capital_Partners
+  slug: instacart
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: DriveNets
+  url: https://drivenets.com
+  description: Cloud-native networking software for carriers.
+  sector: networking
+  stage: growth
+  status: active
+  lead: false
+  source: https://en.wikipedia.org/wiki/D1_Capital_Partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: drivenets
+- name: Unity Technologies
+  url: https://unity.com
+  description: Real-time 3D development and game engine platform.
+  sector: software
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: unity
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Wise
+  url: https://wise.com
+  description: Cross-border money transfers and multi-currency accounts.
+  sector: fintech
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: wise
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Warby Parker
+  url: https://www.warbyparker.com
+  description: Direct-to-consumer eyewear brand and retailer.
+  sector: ecommerce
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: warby-parker
+- name: Rivian
+  url: https://rivian.com
+  description: Electric adventure vehicles and delivery vans.
+  sector: automotive
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: rivian-automotive
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Zomato
+  url: https://www.zomato.com
+  description: Food delivery and restaurant discovery marketplace (Eternal).
+  sector: food
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zomato
+- name: Lineage
+  url: https://www.onelineage.com
+  description: Temperature-controlled warehousing and cold-chain logistics.
+  sector: logistics
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lineage
+- name: Procore
+  url: https://www.procore.com
+  description: Construction project management software platform.
+  sector: software
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: procore
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Lacework
+  url: https://www.lacework.com
+  description: Cloud security and data-driven threat detection.
+  sector: cybersecurity
+  stage: growth
+  status: acquired
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: lacework
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Squarespace
+  url: https://www.squarespace.com
+  description: Website building, ecommerce and online presence platform.
+  sector: software
+  stage: growth
+  status: acquired
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: squarespace
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: dLocal
+  url: https://www.dlocal.com
+  description: Payments platform for emerging markets.
+  sector: fintech
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: dlocal
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: OneStream
+  url: https://www.onestream.com
+  description: Corporate performance management and finance software.
+  sector: software
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: onestream
+- name: Alkami
+  url: https://www.alkami.com
+  description: Cloud-based digital banking platform for financial institutions.
+  sector: fintech
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alkami
+- name: Highspot
+  url: https://www.highspot.com
+  description: Sales enablement and content management platform.
+  sector: sales-marketing
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: highspot
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Sweetgreen
+  url: https://www.sweetgreen.com
+  description: Fast-casual salad and healthy food restaurant chain.
+  sector: food
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sweetgreen
+- name: Geek+
+  url: https://www.geekplus.com
+  description: Autonomous mobile robots for warehouse logistics.
+  sector: robotics
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: geek
+- name: SmartRent
+  url: https://smartrent.com
+  description: Smart home and property automation for real estate.
+  sector: proptech
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: smartrent
+- name: Absci
+  url: https://www.absci.com
+  description: Generative AI drug discovery and biologics platform.
+  sector: biotech
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: absci
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Gopuff
+  url: https://www.gopuff.com
+  description: Instant delivery of everyday essentials and food.
+  sector: delivery
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: gopuff
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Bolt
+  url: https://bolt.eu
+  description: Ride-hailing, micromobility and food delivery super-app.
+  sector: transportation
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: bolt-eu
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Dream11
+  url: https://www.dream11.com
+  description: Fantasy sports gaming platform.
+  sector: gaming
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dream11
+- name: Loft
+  url: https://loft.com.br
+  description: Brazilian digital real estate transaction platform.
+  sector: proptech
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: loft
+- name: Airtable
+  url: https://airtable.com
+  description: Low-code platform for building collaborative apps and databases.
+  sector: software
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: airtable
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cognition
+  url: https://cognition.ai
+  description: AI software engineering agent (Devin).
+  sector: ai
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: cognition
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Course Hero
+  url: https://www.coursehero.com
+  description: Online learning platform and study resources.
+  sector: edtech
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: course-hero
+- name: Faire
+  url: https://www.faire.com
+  description: Wholesale marketplace connecting brands and retailers.
+  sector: marketplace
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: faire
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Genesys
+  url: https://www.genesys.com
+  description: Cloud customer experience and contact center software.
+  sector: software
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: genesys
+- name: Revolut
+  url: https://www.revolut.com
+  description: Digital banking and financial super-app.
+  sector: fintech
+  stage: growth
+  status: active
+  lead: false
+  source: https://dealroom.co/investors/d1-capital-partners/
+  slug: neobanks
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Ualá
+  url: https://www.uala.com.ar
+  description: Latin American mobile banking and financial services app.
+  sector: fintech
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  slug: datos-arsat-com-ar
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Imperative Care
+  url: https://www.imperativecare.com
+  description: Medical devices for stroke and vascular disease.
+  sector: healthcare
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: imperative-care
+- name: ByHeart
+  url: https://www.byheart.com
+  description: Next-generation infant formula company.
+  sector: consumer
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: byheart
+- name: Urbanic
+  url: https://in.urbanic.com
+  description: Fast-fashion direct-to-consumer apparel brand.
+  sector: ecommerce
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: urbanic
+- name: Zetwerk
+  url: https://www.zetwerk.com
+  description: Manufacturing marketplace for custom industrial products.
+  sector: manufacturing
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zetwerk
+- name: VulcanForms
+  url: https://vulcanforms.com
+  description: Digital additive metal manufacturing at scale.
+  sector: manufacturing
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vulcanforms
+- name: Multiverse
+  url: https://www.multiverse.io
+  description: Apprenticeships and applied skills training platform.
+  sector: edtech
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  slug: multiverse
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Guild
+  url: https://www.guild.com
+  description: Education and upskilling benefits platform for employers.
+  sector: edtech
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: guild
+- name: CelLink
+  url: https://www.cellinkcorp.com
+  description: Flexible circuit and electrical interconnect manufacturing.
+  sector: manufacturing
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cellink
+- name: Cazoo
+  url: https://www.cazoo.co.uk
+  description: Online used-car retailer (UK).
+  sector: ecommerce
+  stage: growth
+  status: dead
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cazoo
+- name: SalioGen Therapeutics
+  url: https://saliogen.com
+  description: Genetic medicines using gene coding technology.
+  sector: biotech
+  stage: growth
+  status: active
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: saliogen-therapeutics
+- name: Foxtrot
+  url: https://www.foxtrotco.com
+  description: Modern convenience retail stores and delivery app.
+  sector: retail
+  stage: growth
+  status: dead
+  lead: false
+  source: https://startupintros.com/orgs/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: foxtrot
+- name: Collectors
+  url: https://www.collectors.com
+  description: Collectibles grading, authentication and marketplace (PSA).
+  sector: marketplace
+  stage: growth
+  status: acquired
+  lead: false
+  source: https://www.tipranks.com/private-companies/investor/d1-capital-partners
+  in_network: false
+  is_api_provider: false
+  suggested_slug: collectors
