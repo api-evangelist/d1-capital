@@ -3,9 +3,9 @@ method: searched
 source: https://www.crunchbase.com/organization/d1-capital-partners
 summary:
   portfolio_total: 50
-  in_network: 25
-  api_providers: 16
-  missing: 25
+  in_network: 50
+  api_providers: 20
+  missing: 0
   stubs_created: 0
 companies:
 - name: SpaceX
@@ -88,9 +88,10 @@ companies:
   status: ipo
   lead: false
   source: https://en.wikipedia.org/wiki/D1_Capital_Partners
-  in_network: false
-  is_api_provider: false
-  suggested_slug: robinhood
+  in_network: true
+  is_api_provider: true
+  slug: robinhood
+  matched_by: domain
 - name: GitLab
   url: https://gitlab.com
   description: DevOps platform for the software development lifecycle.
@@ -123,9 +124,10 @@ companies:
   status: active
   lead: false
   source: https://en.wikipedia.org/wiki/D1_Capital_Partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: drivenets
+  slug: drivenets
+  matched_by: domain
 - name: Unity Technologies
   url: https://unity.com
   description: Real-time 3D development and game engine platform.
@@ -158,9 +160,10 @@ companies:
   status: ipo
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: warby-parker
+  slug: warby-parker
+  matched_by: domain
 - name: Rivian
   url: https://rivian.com
   description: Electric adventure vehicles and delivery vans.
@@ -181,9 +184,10 @@ companies:
   status: ipo
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zomato
+  slug: zomato
+  matched_by: domain
 - name: Lineage
   url: https://www.onelineage.com
   description: Temperature-controlled warehousing and cold-chain logistics.
@@ -192,9 +196,10 @@ companies:
   status: ipo
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lineage
+  slug: lineage
+  matched_by: domain
 - name: Procore
   url: https://www.procore.com
   description: Construction project management software platform.
@@ -251,9 +256,10 @@ companies:
   status: ipo
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: onestream
+  slug: onestream
+  matched_by: domain
 - name: Alkami
   url: https://www.alkami.com
   description: Cloud-based digital banking platform for financial institutions.
@@ -262,9 +268,10 @@ companies:
   status: ipo
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alkami
+  slug: alkami
+  matched_by: domain
 - name: Highspot
   url: https://www.highspot.com
   description: Sales enablement and content management platform.
@@ -285,9 +292,10 @@ companies:
   status: ipo
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sweetgreen
+  slug: sweetgreen
+  matched_by: domain
 - name: Geek+
   url: https://www.geekplus.com
   description: Autonomous mobile robots for warehouse logistics.
@@ -296,9 +304,10 @@ companies:
   status: active
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: geek
+  slug: geek
+  matched_by: domain
 - name: SmartRent
   url: https://smartrent.com
   description: Smart home and property automation for real estate.
@@ -307,9 +316,10 @@ companies:
   status: ipo
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: smartrent
+  slug: smartrent
+  matched_by: domain
 - name: Absci
   url: https://www.absci.com
   description: Generative AI drug discovery and biologics platform.
@@ -354,9 +364,10 @@ companies:
   status: active
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dream11
+  slug: dream11
+  matched_by: domain
 - name: Loft
   url: https://loft.com.br
   description: Brazilian digital real estate transaction platform.
@@ -365,9 +376,10 @@ companies:
   status: active
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: loft
+  slug: loft
+  matched_by: domain
 - name: Airtable
   url: https://airtable.com
   description: Low-code platform for building collaborative apps and databases.
@@ -400,9 +412,10 @@ companies:
   status: active
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: course-hero
+  slug: course-hero
+  matched_by: domain
 - name: Faire
   url: https://www.faire.com
   description: Wholesale marketplace connecting brands and retailers.
@@ -423,9 +436,10 @@ companies:
   status: active
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: genesys
+  in_network: true
+  is_api_provider: true
+  slug: genesys
+  matched_by: domain
 - name: Revolut
   url: https://www.revolut.com
   description: Digital banking and financial super-app.
@@ -434,9 +448,9 @@ companies:
   status: active
   lead: false
   source: https://dealroom.co/investors/d1-capital-partners/
-  slug: neobanks
+  slug: revolut
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Ualá
   url: https://www.uala.com.ar
@@ -458,9 +472,10 @@ companies:
   status: active
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: imperative-care
+  slug: imperative-care
+  matched_by: domain
 - name: ByHeart
   url: https://www.byheart.com
   description: Next-generation infant formula company.
@@ -469,9 +484,10 @@ companies:
   status: active
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: byheart
+  slug: byheart
+  matched_by: domain
 - name: Urbanic
   url: https://in.urbanic.com
   description: Fast-fashion direct-to-consumer apparel brand.
@@ -480,9 +496,10 @@ companies:
   status: active
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: urbanic
+  slug: urbanic
+  matched_by: domain
 - name: Zetwerk
   url: https://www.zetwerk.com
   description: Manufacturing marketplace for custom industrial products.
@@ -491,9 +508,10 @@ companies:
   status: active
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zetwerk
+  slug: zetwerk
+  matched_by: domain
 - name: VulcanForms
   url: https://vulcanforms.com
   description: Digital additive metal manufacturing at scale.
@@ -502,9 +520,10 @@ companies:
   status: active
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vulcanforms
+  slug: vulcanforms
+  matched_by: domain
 - name: Multiverse
   url: https://www.multiverse.io
   description: Apprenticeships and applied skills training platform.
@@ -516,7 +535,7 @@ companies:
   slug: multiverse
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
 - name: Guild
   url: https://www.guild.com
   description: Education and upskilling benefits platform for employers.
@@ -525,9 +544,10 @@ companies:
   status: active
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: guild
+  slug: guild
+  matched_by: domain
 - name: CelLink
   url: https://www.cellinkcorp.com
   description: Flexible circuit and electrical interconnect manufacturing.
@@ -536,9 +556,10 @@ companies:
   status: active
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cellink
+  slug: cellink
+  matched_by: name-slug
 - name: Cazoo
   url: https://www.cazoo.co.uk
   description: Online used-car retailer (UK).
@@ -547,9 +568,10 @@ companies:
   status: dead
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cazoo
+  slug: cazoo
+  matched_by: domain
 - name: SalioGen Therapeutics
   url: https://saliogen.com
   description: Genetic medicines using gene coding technology.
@@ -558,9 +580,10 @@ companies:
   status: active
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: saliogen-therapeutics
+  slug: saliogen-therapeutics
+  matched_by: domain
 - name: Foxtrot
   url: https://www.foxtrotco.com
   description: Modern convenience retail stores and delivery app.
@@ -569,9 +592,10 @@ companies:
   status: dead
   lead: false
   source: https://startupintros.com/orgs/d1-capital-partners
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: foxtrot
+  slug: foxtrot
+  matched_by: domain
 - name: Collectors
   url: https://www.collectors.com
   description: Collectibles grading, authentication and marketplace (PSA).
@@ -580,6 +604,7 @@ companies:
   status: acquired
   lead: false
   source: https://www.tipranks.com/private-companies/investor/d1-capital-partners
-  in_network: false
-  is_api_provider: false
-  suggested_slug: collectors
+  in_network: true
+  is_api_provider: true
+  slug: collectors
+  matched_by: domain
