@@ -17,6 +17,17 @@ description: >-
   roughly $3 billion at launch to more than $20 billion by the end of 2020, and
   has been reported managing on the order of $24 billion in assets. It is
   headquartered at 9 West 57th Street in Manhattan.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
